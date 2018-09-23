@@ -7,12 +7,12 @@
 * 今天是2018年9月23日，我在马哥教育培训整整一周了，通过这一周对liunx初步的接触，我摒弃了之前所有对linux系统的偏见，liunx这种开源的系统，相比较windows闭源的系统在实际使用其实更有意思，在某种程度上反而比纯图形更简单。  
 
 * 第一周给我感触最深的就是linux某些命令可以定制化自己的系统，举例来说，修改/etc/issue文件可以定制登录前提示：  
- ![登录前提示]https://m.qpic.cn/psb?/V12PYWW41RFPlV/RM93W3bLkZA2Awnxp4JD7J9RaC2cuUgyI*6sRKE2DNc!/b/dDIBAAAAAAAA&bo=3QEuAQAAAAADB9E!&rf=viewer_4  
+![登录前提示](http://www.baidu.com)  
 
  ---
   
 * 修改/etc/motd文件可以定制登录后提示语：  
-  i[login0] (https://m.qpic.cn/psb?/V12PYWW41RFPlV/zkHXdqxtqpVJIToX5sy3Mmt4v8fCZJh27UqmQWiAKx8!/b/dPMAAAAAAAAA&bo=egJHAQAAAAADBxw!&rf=viewer_4)  
+![login0] (https://m.qpic.cn/psb?/V12PYWW41RFPlV/zkHXdqxtqpVJIToX5sy3Mmt4v8fCZJh27UqmQWiAKx8!/b/dPMAAAAAAAAA&bo=egJHAQAAAAADBxw!&rf=viewer_4)  
 
   
   

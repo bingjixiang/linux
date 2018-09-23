@@ -14,13 +14,9 @@
 * 修改/etc/motd文件可以定制登录后提示语：  
 ![login0](https://m.qpic.cn/psb?/V12PYWW41RFPlV/zkHXdqxtqpVJIToX5sy3Mmt4v8fCZJh27UqmQWiAKx8!/b/dPMAAAAAAAAA&bo=egJHAQAAAAADBxw!&rf=viewer_4)  
 
-  
-  
-![login1](https://m.qpic.cn/psb?/V12PYWW41RFPlV/pnu5qnxE9to3upJ2S9seKQR92TMpS2Fsl0FiFmRAtpQ!/b/dFIBAAAAAAAA&bo=jAMtAQAAAAADF5E!&rf=viewer_4)  
-  
-  ---
+---
 
-* 修改/etc/profile.d/env.sh文件可自定义命令提示符颜色样式等：（如上图所示命令提示符改为绿色）
+* 修改/etc/profile.d/env.sh文件可自定义命令提示符颜色样式等：（所示命令提示符改为绿色）
 ![login2](https://m.qpic.cn/psb?/V12PYWW41RFPlV/49eRKGonwvGA9zLQnlNeYmQVaWcaQAc6uSjBlyWHY.Y!/b/dFMBAAAAAAAA&bo=ZwIxAQAAAAADB3c!&rf=viewer_4)  
 
   ---

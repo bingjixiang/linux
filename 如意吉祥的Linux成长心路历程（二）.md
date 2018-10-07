@@ -292,7 +292,7 @@ r: Readable
 w: Writable  
 x: eXcutable  
 
-![root](htt]p://m.qpic.cn/psb?/V12PYWW41RFPlV/R6QhDSW9y7tvbOZIZBabiP8ytPOh7iDN7iTZH63GCBw!/b/dDQBAAAAAAAA&bo=TwPQAAAAAAADB74!&rf=viewer_4)
+![rooot](htt]p://m.qpic.cn/psb?/V12PYWW41RFPlV/R6QhDSW9y7tvbOZIZBabiP8ytPOh7iDN7iTZH63GCBw!/b/dDQBAAAAAAAA&bo=TwPQAAAAAAADB74!&rf=viewer_4)
 
 **修改文件权限**
 

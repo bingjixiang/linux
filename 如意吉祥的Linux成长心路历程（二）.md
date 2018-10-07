@@ -89,7 +89,7 @@ mkdir创建目录
 * inode表结构与文件关系
 ------
 
-! [inode](http://m.qpic.cn/psb?/V12PYWW41RFPlV/x*ZeGEOZpL1iAxNO.Eq6u92TVbNjX7QTKfgo8UVJRyw!/b/dDYBAAAAAAAA&bo=ewTOAgAAAAADJ7E!&rf=viewer_4)
+![inode](http://m.qpic.cn/psb?/V12PYWW41RFPlV/x*ZeGEOZpL1iAxNO.Eq6u92TVbNjX7QTKfgo8UVJRyw!/b/dDYBAAAAAAAA&bo=ewTOAgAAAAADJ7E!&rf=viewer_4)
 
 文件引用一个是inode号  
 人是通过文件名来引用一个文件  

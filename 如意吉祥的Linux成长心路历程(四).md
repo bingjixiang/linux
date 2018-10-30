@@ -53,11 +53,12 @@ hub集线器
 
 路由器  
 ---
+```
 分隔广播域  
 选择路由表的路径  
 维护和检查路由信息  
 连接广域网  
-
+```
 集线器工作在物理层 交换机在数据链路层 路由器网络层 网卡在数据链路层
 
 VLAN
@@ -122,9 +123,11 @@ ip_local_port_range端口号范围
 ```
 TCP三次握手：发送数据报文SYN=1，报文序号seq=x；服务器端收到立即回应SYN=1，ACK=1，并产生自己序号seq=y和接收的确认号ack=x+1（表明自己收到了seq报文，并要求对方发送seq+1）；客户端回应ACK=1，确认服务器端请求发送seq=X+1和ack=y+1
 
-三次握手的网络状态：closed--->SYN-SENT--->ESTAB-LISTENED  
-                  closed--->SYN-RCVD--->ESTAB-LISTENED
-
+三次握手的网络状态：
+```
+closed--->SYN-SENT--->ESTAB-LISTENED  
+closed--->SYN-RCVD--->ESTAB-LISTENED
+```
 
 TCP四次挥手:客户端发送FIN=1的报文表示请求结束会话，生成seq=u；服务端确认分手包ACK=1，生成自己编号seq=w，ack=u+1;服务器端可能发送之前为传完的数据，传完后发送FIN，ACK，序号并要求客户端发送u+1确认；客户端收到服务器端的报文，立刻回应seq=u+1包，ACK=1,ack=w+1结束双方的会话
 
